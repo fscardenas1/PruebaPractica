@@ -4,7 +4,7 @@
     "appsettings.json"
   ],
   "debugBuild": true,
-  "entryAssembly": "MiProyecto002",
+  "entryAssembly": "Prueba",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -201,13 +201,13 @@
       "mscorlib.dll": "sha256-gEh2pbf9QBKUbbQNDp178pkm5vz7xXFGhpFgUcAhyTE=",
       "netstandard.dll": "sha256-IEYNogoWZgSKXlx0+Pn2bt3irEZ1nuCnjK9Bm+3OWYw=",
       "System.Private.CoreLib.dll": "sha256-XrgDwG5fUErLSziY3dAwA0PYLIirTlornT8Lb6U2DUs=",
-      "MiProyecto002.dll": "sha256-2OAlnet5efF+2jR2mdBCi5JAbJ+F6nFidqsD2IF+7yY="
+      "Prueba.dll": "sha256-\/+pv5lidSLSfxf1MrnmhLa23YGk+RfBzmRn2zcGVIhQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MiProyecto002.pdb": "sha256-deiiZQ9HkVpW1wravIg23zEHG+cM6A2JOizzeKT6h6E="
+      "Prueba.pdb": "sha256-lv1\/y2n0dXVG4OJNl80xOKAQrRe41i9PTGNLNkpENv0="
     },
     "runtime": {
       "dotnet.7.0.7.uxnpwspacs.js": "sha256-JmMF+3r0RjsO0yYBfDP8Pq2ahxBSJHFu7mZNB9lqLsw=",

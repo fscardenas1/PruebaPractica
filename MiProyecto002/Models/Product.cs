@@ -1,12 +1,9 @@
-namespace MiProyecto002;
-
-public class Product
+namespace Prueba.Models
 {
+    public class Product
+    {
         public int Id { get; set; }
         public string Title { get; set; }
-        public decimal? Price { get; set; }
-        public string Description { get; set; }
-        public int CategoryId { get; set; }
-        public string[] Images { get; set; }
-        public string? Image { get; set; }
+        public decimal Price { get; set; }
+    }
 }

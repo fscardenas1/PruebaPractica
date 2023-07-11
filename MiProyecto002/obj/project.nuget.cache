@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TdasQnUDqb9wN7Gtoz0Tst/WmjPbKtBqfC5tybPloVcpPjTGee7ZJt17mh8XUAPADBpvMfOomPIGwR0MnWuVSQ==",
+  "dgSpecHash": "gRhKywdO3cPhXxDfpvUVKoBs04gB4OtzBNjtTk5F8gEOOmTLDHS4w4MwGGV46Mfd1sHLKVJ8jQoZvwKF3hb7Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodne\\OneDrive\\Documentos\\GitHub\\Fundamentos-Blazor\\Colaboradores\\Rodney-Armas\\MiProyecto002\\MiProyecto002.csproj",
+  "projectFilePath": "C:\\Users\\rodne\\OneDrive\\Documentos\\ESPE\\MALLA VIGENTE\\VI SEMESTRE\\Desarrollo Web para Integración de Tecnologías\\Segundo Parcial\\Prueba_Practica\\Prueba\\Prueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodne\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
     "C:\\Users\\rodne\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.7\\microsoft.aspnetcore.authorization.7.0.7.nupkg.sha512",
